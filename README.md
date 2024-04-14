@@ -5,4 +5,4 @@ Some code that was written for my final year project - there are two distinct se
 The code for the example problem as described in chapter 2
 
 ## NCAA
-All code that was used for the NCAA basketball application. All data prep, plots, model building and diagnostics
+All code that was used for the NCAA basketball application - includes all of the data prep, plots, model building and diagnostics

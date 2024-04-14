@@ -1,6 +1,8 @@
 # FinalYearProject
-Some code to go with submitted final year project
+Some code that was written for my final year project - there are two distinct sections
 
 ## Metropolis Example
+The code for the example problem as described in chapter 2
 
-## NCAA Code
+## NCAA
+All code that was used for the NCAA basketball application. All data prep, plots, model building and diagnostics
